@@ -54,7 +54,7 @@ The cost of ownership of a vehicle varies greatly over the lifespan of a vehicle
 
 ### Hypothesis
 
- - Null Hypothisis: Cost of ownership of AutosRU is less than competition
+ - Null Hypothesis: Cost of ownership of AutosRU is less than competition
 
 ### Statistical Test
 Linear regression and T-tests on various components and pricing would be beneficial in certain design criteria.
